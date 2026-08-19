@@ -1,3 +1,16 @@
+<p align="left">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/prominD_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/prominD.webp">
+    <img src="./assets/prominD.webp" alt="ProminD Logo" width="250">
+  </picture>
+
+</p>
+
+[🇬🇧 English](README.md)
+
+
 # XNode-Aero MQTT LWT Demo
 
 یک مثال ساده برای نمایش نحوه استفاده از **MQTT 5** با کتابخانه `paho-mqtt` در پایتون.
@@ -405,5 +418,5 @@ python xnode_aero_mqtt.py
 ## License
 
 این پروژه برای اهداف آموزشی ارائه شده است.
-XminD - 2026
+**XminD - 2026**
 
