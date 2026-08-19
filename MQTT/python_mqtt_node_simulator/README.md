@@ -470,7 +470,7 @@ It demonstrates how to:
 This project is provided for educational purposes.
 **XminD-2026**
 
-<p align="left">
+<p align="center">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../../assets/XminD_logo_dark.webp">
