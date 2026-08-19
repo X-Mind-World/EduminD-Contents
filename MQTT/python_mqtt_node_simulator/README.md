@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../../assets/EduminD_dark.webp">
@@ -7,6 +7,18 @@
   </picture>
 
 </p>
+
+<div align="center">
+  <a href="https://t.me/X_MindWorld" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/x_mindworld" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:education.xmindworld@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 # XNode-Aero MQTT LWT Demo
 
