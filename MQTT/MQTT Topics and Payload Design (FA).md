@@ -503,11 +503,11 @@ smart-building/building-a/xnode-01/telemetry
 از چپ به راست:
 
 ```mermaid
-graph LR
-    A("smart-building")
-    B("building-a")
-    C("xnode-01")
-    D("telemetry")
+flowchart LR
+    A["smart-building"]
+    B["building-a"]
+    C["xnode-01"]
+    D["telemetry"]
     A --> B
     B --> C
     C --> D
