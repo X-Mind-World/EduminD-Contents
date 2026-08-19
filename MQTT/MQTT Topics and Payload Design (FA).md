@@ -503,7 +503,7 @@ smart-building/building-a/xnode-01/telemetry
 از چپ به راست:
 
 ```mermaid
-flowchart LR
+graph LR
     A("smart-building")
     B("building-a")
     C("xnode-01")
@@ -511,7 +511,6 @@ flowchart LR
     A --> B
     B --> C
     C --> D
-    %% mermaid-flow:pos A=128,82 B=128,176 C=128,269 D=128,364
 ```
 
 این ساختار به Subscriber اجازه می‌ده در سطوح مختلف مشترک بشه.
