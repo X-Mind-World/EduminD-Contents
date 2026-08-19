@@ -425,7 +425,7 @@ python xnode_aero_mqtt.py
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../../assets/XminD_logo_dark.webp">
     <source media="(prefers-color-scheme: light)" srcset="../../assets/XminD_logo.webp">
-    <img src="../../assets/XminD_logo.webp" alt="EduminD Logo" width="250">
+    <img src="../../assets/XminD_logo.webp" alt="XminD Logo" width="250">
   </picture>
 
 </p>
