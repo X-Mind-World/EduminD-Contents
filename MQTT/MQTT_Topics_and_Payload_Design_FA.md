@@ -1,3 +1,14 @@
+
+<p align="left">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/EduminD_logo_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="../assets/EduminD.webp">
+    <img src="../assets/EduminD.webp" alt="EduminD Logo" width="250">
+  </picture>
+
+</p>
+
 [🇬🇧 English](MQTT_Topics_and_Payload_Design_EN.md)
 
 # راهنمای جامع طراحی Topic، Topic Filter، Wildcard و Payload در MQTT
@@ -1442,4 +1453,16 @@ flowchart TB
     G ==> H
     %% mermaid-flow:pos A=133,82 B=296,82 C=469,82 D=684,82 E=864,82 F=1036,82 G=1281,82 H=1588,82
 ```
+**XminD-2026**
 
+
+
+<p align="left">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/XminD_logo_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="../assets/XminD_logo.webp">
+    <img src="../assets/XminD_logo.webp" alt="XminD Logo" width="250">
+  </picture>
+
+</p>
