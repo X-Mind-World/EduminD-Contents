@@ -1,3 +1,4 @@
+[🇬🇧 English](MQTT Topics and Payload Design-EN.md)
 
 # راهنمای جامع طراحی Topic، Topic Filter، Wildcard و Payload در MQTT
 
@@ -5,7 +6,6 @@
 > **مخاطب:** دانشجویان، توسعه‌دهندگان IoT، مهندسان Embedded، طراحان Backend و معماران سیستم  
 > **جایگاه در معماری IoT:** لایه ارتباطات و Messaging، با اثر مستقیم بر Routing، Security، Scalability و Data Modeling
 
-[🇬🇧 English](MQTT Topics and Payload Design (EN).md)
 ---
 
 # 1. چرا Topic و Payload مهم‌اند؟
