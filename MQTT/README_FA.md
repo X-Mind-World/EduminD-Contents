@@ -9,9 +9,11 @@
 
 </p>
 
-[🇬🇧 English](MQTT_Topics_and_Payload_Design_EN.md)
+
 
 # راهنمای جامع طراحی Topic، Topic Filter، Wildcard و Payload در MQTT
+
+[🇬🇧 English](README.md)
 
 > **سطح:** مقدماتی تا متوسط  
 > **مخاطب:** دانشجویان، توسعه‌دهندگان IoT، مهندسان Embedded، طراحان Backend و معماران سیستم  
