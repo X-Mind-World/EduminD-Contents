@@ -1,4 +1,4 @@
-[ فارسی](MQTT_Topics_and_Payload_Design_FA.md)
+[🇮🇷 فارسی](MQTT_Topics_and_Payload_Design_FA.md)
 ## **Comprehensive Guide to Topic, Topic Filter, Wildcard, and Payload Design in MQTT**
 
 > **Level:** Beginner to Intermediate
