@@ -1,9 +1,9 @@
 <p align="left">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/EduminD_dark.webp">
-    <source media="(prefers-color-scheme: light)" srcset="../assets/EduminD.webp">
-    <img src="../assets/EduminD.webp" alt="EduminD Logo" width="250">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/EduminD_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="../../assets/EduminD.webp">
+    <img src="../../assets/EduminD.webp" alt="EduminD Logo" width="250">
   </picture>
 
 </p>
@@ -461,9 +461,9 @@ This project is provided for educational purposes.
 <p align="left">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/XminD_logo_dark.webp">
-    <source media="(prefers-color-scheme: light)" srcset="../assets/XminD_logo.webp">
-    <img src="../assets/XminD_logo.webp" alt="XminD Logo" width="250">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/XminD_logo_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="../../assets/XminD_logo.webp">
+    <img src="../../assets/XminD_logo.webp" alt="XminD Logo" width="250">
   </picture>
 
 </p>
