@@ -19,7 +19,7 @@
   </a>
 </div>
 <p align="center">
-    <img src="../assets/Mqtt.svg" alt="MQTT Logo" width="100">
+    <img src="../assets/Mqtt.svg" alt="MQTT Logo" width="150">
 </p>
 
 
