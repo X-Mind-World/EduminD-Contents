@@ -1348,6 +1348,31 @@ flowchart TB
     G ==> H
 ```
 
+## License
+
+### Software
+
+The software source code in this repository is licensed under the MIT License.
+
+### Hardware
+
+Hardware design files, if included, are licensed separately under CERN-OHL-P-2.0.
+
+### Documentation
+
+Unless otherwise stated, documentation is licensed under CC BY 4.0.
+
+### Trademarks
+
+XminD, XNode, XNode-Aero, EduminD, ProminD and associated logos and brand assets are trademarks or
+protected brand assets of XminD.
+
+The open-source license does not grant permission to use XminD trademarks,
+logos, or branding in a way that implies endorsement, certification, or official
+affiliation.
+
+Forks and modified versions must not be presented as official XminD projects.
+
 **XminD-2026**
 
 <p align="center">
