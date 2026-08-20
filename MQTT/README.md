@@ -19,7 +19,7 @@
   </a>
 </div>
 
-## *Comprehensive Guide to Topic, Topic Filter, Wildcard, and Payload Design in MQTT**
+# **Comprehensive Guide to Topic, Topic Filter, Wildcard, and Payload Design in MQTT**
 
 [🇮🇷 فارسی](README_FA.md)
 
