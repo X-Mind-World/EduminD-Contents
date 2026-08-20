@@ -311,7 +311,7 @@ It can be used as a starting point for experimenting with MQTT-based telemetry s
 
 ## Author
 
-**XminD Team**
+**XminD Education Team (EduminD)**
 
 Education: `education.xmindworld@gmail.com`
 
