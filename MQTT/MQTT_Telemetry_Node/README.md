@@ -1,6 +1,5 @@
 [🇮🇷 فارسی](README-FA.md)
-
-# MQTT Telemetry Node for Test
+# XNode-Aero MQTT Telemetry Node
 
 An educational ESP32-based IoT node demonstrating reliable MQTT communication, device status management, and periodic telemetry publishing.
 
@@ -149,14 +148,9 @@ The MQTT connection is attempted immediately when required and subsequent attemp
 
 ## Telemetry Interval
 
-Telemetry is published every:
-
-```text
-5 seconds
-```
+Telemetry is published every: `5 seconds`
 
 This value is controlled by:
-
 ```cpp
 TELEMETRY_INTERVAL = 5000;
 ```
@@ -167,28 +161,24 @@ The timing mechanism uses `millis()` rather than blocking the main loop with a l
 
 ## Configuration
 
-Sensitive connection credentials are kept outside the main source file in:
-
-```text
-secrets.h
-```
-
+Sensitive connection credentials are kept outside the main source file in: `secrets.h
+`
 A typical configuration contains:
 
 ```cpp
 namespace Secrets {
-    const char* WIFI_SSID = "...";
-    const char* WIFI_PASS = "...";
+    inline constexpr char WIFI_SSID[] = "...";
+    inline constexpr char WIFI_PASS[] = "...";
 
-    const char* MQTT_BROKER = "...";
-    const int   MQTT_PORT = 1883;
+    inline constexpr char MQTT_BROKER[] = "...";
+    inline constexpr int   MQTT_PORT = 1883;
 
-    const char* MQTT_USER = "...";
-    const char* MQTT_PASS = "...";
+    inline constexpr char MQTT_USER[] = "...";
+    inline constexpr char MQTT_PASS[] = "...";
 }
 ```
 
-Do **not** commit real Wi-Fi or MQTT credentials to a public repository.
+🚩Do **not** commit real Wi-Fi or MQTT credentials to a public repository.
 
 For Git repositories, add the credentials file to `.gitignore` when appropriate.
 
@@ -202,8 +192,6 @@ The project uses:
 - `WiFi.h`
 - `PubSubClient`
 - A project-specific `secrets.h`
-
-`WiFi.h` is provided by the ESP32 Arduino framework.
 
 `PubSubClient` is required for MQTT communication.
 
