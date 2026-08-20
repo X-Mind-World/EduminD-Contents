@@ -18,6 +18,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+<p align="center">
+    <img src="../assets/Mqtt.svg" alt="MQTT Logo" width="100">
+</p>
+
 
 # **Comprehensive Guide to Topic, Topic Filter, Wildcard, and Payload Design in MQTT**
 
