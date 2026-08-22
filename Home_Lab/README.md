@@ -100,7 +100,7 @@ flowchart TB
 
 <html>
   <div align = "center">
-    <img src="./assets/Docker_logo.webp" alt="Docker logo">
+    <img src="./assets/Docker_logo.webp" alt="Docker logo" width= "380px">
     <p> </p>
   </div>
 </html>
@@ -297,7 +297,7 @@ flowchart TB
 
 ---
 
-# ![Microsoft Windows Logo](https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/microsoft-windows.svg) ۷. پیش‌نیازهای ویندوز و WSL2
+# ۷. پیش‌نیازهای ویندوز و WSL2
 
 ## ۷.۱. بررسی نسخه Windows
 
