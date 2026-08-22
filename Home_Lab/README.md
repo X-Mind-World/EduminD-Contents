@@ -98,6 +98,13 @@ flowchart TB
 # ![Docker Logo](https://api.iconify.design/logos/docker-icon.svg) ۳. Docker چیه و چرا برای آزمایشگاه خانگی مناسبه؟
 
 
+<html>
+  <div align = "center">
+    <img src="./assets/Docker_logo.webp" alt="Docker logo">
+    <p> </p>
+  </div>
+</html>
+
 داکر (Docker) یک پلتفرم برای بسته‌بندی و اجرای نرم‌افزارها در محیط‌هایی به اسم **Container** هست.
 
 کانتیر(Container)ها فرآیندها و منابع موردنیاز یک سرویس رو از سایر سرویس‌ها جدا می‌کنن و باعث می‌شن استقرار و مدیریت نرم‌افزارها تکرارپذیرتر بشه.
@@ -236,6 +243,14 @@ Container Runtime / Docker
 
 # 🐧 ۵. WSL2 چیه؟
 
+
+<html>
+  <div align = "center">
+    <img src="./assets/Windows_Subsystem_for_Linux_logo.webp" alt="Windows Subsystem for Linux logo">
+    <p> </p>
+  </div>
+</html>
+
 زیرسیستم **WSL2 یا Windows Subsystem for Linux 2** محیطی برای اجرای Linux روی Windows هست. و از یک Linux Kernel واقعی استفاده می‌کنه که در یک VM سبک اجرا می‌شه.
 
 بنابراین:
@@ -282,7 +297,7 @@ flowchart TB
 
 ---
 
-# 🪟 ۷. پیش‌نیازهای ویندوز و WSL2
+# ![Microsoft Windows Logo](https://logo.svgcdn.com/logos/microsoft-windows.svg) ۷. پیش‌نیازهای ویندوز و WSL2
 
 ## ۷.۱. بررسی نسخه Windows
 
@@ -322,6 +337,7 @@ winver
 ---
 
 # ۷.۲. نصب WSL
+
 
 ترمینال ویندوز (Terminal) یا PowerShell رو با دسترسی Administrator باز کنین:
 ```powershell
@@ -431,7 +447,7 @@ systemctl is-system-running
 
 ---
 
-# 🐳 ۹. نصب Docker Engine روی Ubuntu
+#  ۹. نصب Docker Engine روی Ubuntu
 
 ## ۹.۱. بررسی نسخه Ubuntu
 
@@ -531,7 +547,7 @@ sudo docker run hello-world
 
 ---
 
-# 👤 ۱۰. اجرای Docker بدون sudo
+#  ۱۰. اجرای Docker بدون sudo
 
 به‌صورت پیش‌فرض Docker daemon برای کاربر root در دسترسه.
 
@@ -636,7 +652,7 @@ flowchart TB
 
 ---
 
-# 🚀 ۱۳. روش پیشنهادی: Mirrored Networking
+#  ۱۳. روش پیشنهادی: Mirrored Networking
 
 در Windows 11 نسخه 22H2 و بالاتر، WSL2 از حالت **Mirrored Networking** پشتیبانی می‌کنه.
 
