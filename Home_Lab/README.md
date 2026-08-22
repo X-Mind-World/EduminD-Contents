@@ -297,7 +297,7 @@ flowchart TB
 
 ---
 
-# ![Microsoft Windows Logo](https://logo.svgcdn.com/logos/microsoft-windows.svg) ۷. پیش‌نیازهای ویندوز و WSL2
+# ![Microsoft Windows Logo](https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/microsoft-windows.svg) ۷. پیش‌نیازهای ویندوز و WSL2
 
 ## ۷.۱. بررسی نسخه Windows
 
