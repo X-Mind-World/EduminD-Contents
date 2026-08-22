@@ -279,9 +279,12 @@ winver
   </div>
 </html>
 
-در صورت فعال نیودن Virtualization، در تنظیمات BIOS سیستمتون می‌تونید فعالش کنین. و درنهایت بعد از راه‌اندازی مجدد سیستم، در  `Turn Windows Features On or Off` بررسی کنین که تیک دو مورد زیر خورده باشن: 
+در صورت فعال نیودن Virtualization، در تنظیمات BIOS سیستمتون می‌تونید فعالش کنین. و درنهایت بعد از راه‌اندازی مجدد سیستم، در  `Turn Windows Features On or Off` بررسی کنین که تیک دو مورد زیر خورده باشن:
+
 ✔ Virtual Machine Platform
+
 ✔ Windows Subsystem for Linux
+
 
 <html>
   <div align = "center">
