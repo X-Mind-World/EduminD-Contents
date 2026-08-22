@@ -274,7 +274,8 @@ winver
 
 <html>
   <div align = "center">
-    <img src="./assets/Check_Virtualization.webp" alt="Check Virtualization" width="70%">
+    <img src="./assets/Check_Virtualization.webp" alt="Check Virtualization" width="50%">
+    <p> </p>
   </div>
 </html>
 
@@ -284,7 +285,8 @@ winver
 
 <html>
   <div align = "center">
-    <img src="./assets/Check_Windows_Features.webp" alt="Check Windows Features" width="80%">
+    <img src="./assets/Check_Windows_Features.webp" alt="Check Windows Features" width="50%">
+    <p> </p>
   </div>
 </html>
 
