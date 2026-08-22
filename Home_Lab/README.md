@@ -30,7 +30,7 @@
 
 ---
 
-## 📌 ۱. مقدمه و مسئله اصلی
+# 📌 ۱. مقدمه و مسئله اصلی
 
 برای توسعه و تست پروژه‌های IoT و اتوماسیون، معمولاً به چند سرویس مختلف نیاز داریم؛ مثل:
 
@@ -109,7 +109,7 @@ flowchart TB
 
 کانتیر(Container)ها فرآیندها و منابع موردنیاز یک سرویس رو از سایر سرویس‌ها جدا می‌کنن و باعث می‌شن استقرار و مدیریت نرم‌افزارها تکرارپذیرتر بشه.
 
-## ۳.۱. Isolation به معنی حذف کامل اثر روی سیستم نیست
+## ۳.۱. قابلیت Isolation به معنی حذف کامل اثر روی سیستم نیست
 
 اگه یک Container رو حذف کنید:
 ```bash
@@ -142,7 +142,7 @@ volumes:
 > حذف Volume می‌تونه باعث از دست رفتن داده بشه. Volume رو بخشی از استراتژی Backup در نظر بگیرین، نه جایگزین Backup.
 
 
-# ۳.۲. مدیریت سرویس‌ها با Docker Compose
+## ۳.۲. مدیریت سرویس‌ها با Docker Compose
 
 در یک آزمایشگاه خانگی معمولاً با چند سرویس مرتبط سروکار داریم.
 
@@ -178,7 +178,7 @@ docker compose down
 
 ---
 
-# ۳.۳. Portability؛ قابل‌انتقال بودن، نه «اجرای بدون تغییر در همه‌جا»
+## ۳.۳. قابلیت Portability؛ قابل‌انتقال بودن، نه «اجرای بدون تغییر در همه‌جا»
 
 یکی از مزایای Docker اینه که Dockerfile و پیکربندی Compose رو می‌شه در محیط‌های مختلف مجدداً استفاده کرد.
 
@@ -277,7 +277,7 @@ flowchart TB
 
 ---
 
-#  ۶. Docker Desktop یا Docker Engine روی WSL2؟
+#  ۶. استفاده از Docker Desktop یا Docker Engine روی WSL2؟
 
 هر دو انتخاب می‌تونن منطقی باشن.
 
@@ -336,7 +336,7 @@ winver
 
 ---
 
-# ۷.۲. نصب WSL
+## ۷.۲. نصب WSL
 
 
 ترمینال ویندوز (Terminal) یا PowerShell رو با دسترسی Administrator باز کنین:
@@ -368,7 +368,7 @@ Ubuntu    Running    2
 
 ---
 
-# ۷.۳. اگه Ubuntu نصب نشده بود
+## ۷.۳. اگه Ubuntu نصب نشده بود
 
 قبل از هرچیز توزیع‌های قابل نصب رو ببینین:
 ```powershell
@@ -384,7 +384,7 @@ wsl --install -d Ubuntu
 
 ---
 
-# ۷.۴. بررسی نسخه WSL
+## ۷.۴. بررسی نسخه WSL
 
 در Terminal:
 ```powershell
@@ -516,7 +516,7 @@ sudo apt update
 
 ---
 
-# ۹.۴. نصب Docker Engine و Compose
+## ۹.۴. نصب Docker Engine و Compose
 
 ```bash
 sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
@@ -524,7 +524,7 @@ sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin dock
 
 ---
 
-# ۹.۵. بررسی Docker daemon
+## ۹.۵. بررسی Docker daemon
 
 ```bash
 sudo systemctl status docker
@@ -537,7 +537,7 @@ sudo systemctl start docker
 
 ---
 
-# ۹.۶. تست Docker
+## ۹.۶. تست Docker
 
 ```bash
 sudo docker run hello-world
@@ -575,7 +575,7 @@ docker run hello-world
 
 ---
 
-# 🧩 ۱۱. بررسی Docker Compose
+# ۱۱. بررسی Docker Compose
 
 نسخه Compose رو بررسی کنید:
 ```bash
@@ -693,7 +693,7 @@ wsl
 ```
 ---
 
-# ⚠️ ۱۴. Firewall در Mirrored Networking
+# ⚠️ ۱۴. نقش Firewall در Mirrored Networking
 
 فعال‌کردن Mirrored Networking به معنی بازشدن خودکار همه پورت‌ها در شبکه نیست.
 
@@ -901,7 +901,7 @@ setup-portproxy.bat
 
 ---
 
-# 🔥 ۱۹. Firewall؛ چیزی که باید قبل از عیب‌یابی Docker بررسی بشه
+# 🔥 ۱۹. بررسی Firewall؛ موردی که باید قبل از عیب‌یابی Docker بررسی بشه
 
 اگه از LAN نمی‌تونید به MQTT Broker یا Node-RED وصل بشید، ممکنه Docker مقصر نباشه.
 
@@ -959,7 +959,7 @@ docker system prune -a --volumes
 
 ---
 
-# 📦 ۲۱. Storage در WSL2
+# 📦 ۲۱. دخیره‌سازی در WSL2
 
 فایل‌های سیستمی توزیع‌های WSL2 در یک هارددیسک مجازی ذخیره می‌شه. بنابراین حذف image یا container الزاماً به معنی کوچک‌شدن فوری فایل VHDX در ویندوز نیست.
 
@@ -1157,9 +1157,7 @@ Windows + WSL2 + Ubuntu + Docker Engine + Docker Compose
 ---
 
 ## 📌 یادداشت
-
 این راهنما به ابزارهایی وابسته‌ست که در طول زمان تغییر می‌کنند و به‌روزرسانی می‌شن ؛ به‌خصوص WSL، Windows Networking و Docker.
-
 قبل از اجرای دستورات روی سیستم محصول، نسخه‌های فعلی مستندات رسمی Microsoft و Docker رو بررسی کنید.
 
 
