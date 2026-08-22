@@ -95,7 +95,7 @@ flowchart TB
 
 ---
 
-# ![Docker Logo](https://docs.docker.com/assets/images/logo-docker-main.png) ۳. Docker چیه و چرا برای آزمایشگاه خانگی مناسبه؟
+# ![Docker Logo](https://api.iconify.design/logos/docker-icon.svg) ۳. Docker چیه و چرا برای آزمایشگاه خانگی مناسبه؟
 
 
 داکر (Docker) یک پلتفرم برای بسته‌بندی و اجرای نرم‌افزارها در محیط‌هایی به اسم **Container** هست.
