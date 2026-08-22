@@ -211,31 +211,18 @@ docker compose down
 برای جداسازی و مدیریت منابع استفاده می‌شه.
 
 به‌ بیان ساده:
-```text
-Virtual Machine
-────────────────────────────
-Hardware
-   │
-Hypervisor
-   │
-Guest OS
-   │
-Applications
-────────────────────────────
 
 
-Linux Containers
-────────────────────────────
-Hardware
-   │
-Linux Kernel
-   │
-Container Runtime / Docker
-   ├── Container A
-   ├── Container B
-   └── Container C
-────────────────────────────
-```
+<html>
+<div align = "center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/Docker_Container_vs_VM_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/Docker_Container_vs_VM_light.svg">
+  <img alt="Docker Container vs Virtual Machine Picture" src="./assets/Docker_Container_vs_VM_light.svg">
+</picture>
+  <p> </p>
+</div>
+</html>
 
 یک Container معمولاً Overhead کمتری نسبت به اجرای چند Guest OS کامل داره؛ اما این به معنی «بدون مصرف منابع» یا «بدون ایزوله‌سازی امنیتی» نیست.
 
