@@ -1,3 +1,28 @@
+<p align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/EduminD_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="../../assets/EduminD.webp">
+    <img src="../../assets/EduminD.webp" alt="EduminD Logo" width="250">
+  </picture>
+
+</p>
+
+<div align="center">
+  <a href="https://t.me/X_MindWorld" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/x_mindworld" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:education.xmindworld@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+
+
+
 # راهنمای جامع زیرساخت آزمایشگاه خانگی: Docker، WSL2 و شبکه برای مهندسان IoT و اتوماسیون
 
 > **زمینه:** Docker, Linux, WSL2, Embedded Systems, IoT Infrastructure & Networking  
@@ -1119,3 +1144,29 @@ Windows + WSL2 + Ubuntu + Docker Engine + Docker Compose
 این راهنما به ابزارهایی وابسته‌ست که در طول زمان تغییر می‌کنند و به‌روزرسانی می‌شن ؛ به‌خصوص WSL، Windows Networking و Docker.
 
 قبل از اجرای دستورات روی سیستم محصول، نسخه‌های فعلی مستندات رسمی Microsoft و Docker رو بررسی کنید.
+
+
+
+**XminD - 2026**
+
+<p align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/XminD_logo_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="../../assets/XminD_logo.webp">
+    <img src="../../assets/XminD_logo.webp" alt="XminD Logo" width="250">
+  </picture>
+
+</p>
+
+<div align="center">
+  <a href="https://t.me/X_MindWorld" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/x_mindworld" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:education.xmindworld@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
