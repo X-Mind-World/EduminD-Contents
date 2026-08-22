@@ -218,7 +218,7 @@ docker compose down
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/Docker_Container_vs_VM_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/Docker_Container_vs_VM_light.svg">
-  <img alt="Docker Container vs Virtual Machine Picture" src="./assets/Docker_Container_vs_VM_light.svg">
+  <img alt="Docker Container vs Virtual Machine Picture" src="./assets/Docker_Container_vs_VM_light.svg" width="75%">
 </picture>
   <p> </p>
 </div>
