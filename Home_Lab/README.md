@@ -213,8 +213,10 @@ docker compose down
 به‌ بیان ساده:
 
 
+
 <html>
 <div align = "center">
+  <p> </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/Docker_Container_vs_VM_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/Docker_Container_vs_VM_light.svg">
