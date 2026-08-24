@@ -1120,7 +1120,11 @@ wsl hostname -I
 - [Docker Docs — Install Docker Compose Plugin](https://docs.docker.com/compose/install/linux/)
 
 ---
+# 🔗 مباحث مرتبط
 
+- [راهنمای جامع طراحی Topic، Topic Filter، Wildcard و Payload در MQTT](https://github.com/X-Mind-World/EduminD-Contents/tree/main/MQTT)
+
+---
 # جمع‌بندی
 
 ترکیب:
