@@ -56,6 +56,12 @@ In MQTT, the **Topic Name** is part of the message routing mechanism, while the 
 > 
 >   
 
+## Related Projects:
+
+- [MQTT Telemetry Node](https://github.com/X-Mind-World/EduminD-Contents/tree/main/MQTT/MQTT_Telemetry_Node)
+- [Python MQTT Node Simulator](https://github.com/X-Mind-World/EduminD-Contents/tree/main/MQTT/python_mqtt_node_simulator)
+
+
 # 2. What Is an MQTT Topic?
 
 An MQTT Topic is a UTF-8 string used to identify and route messages.
