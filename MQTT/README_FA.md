@@ -53,6 +53,12 @@
 > [!IMPORTANT] یک اصل مهم:
 > ** وظیفه Topic اینه که به Broker کمک کنه تا بفهمه پیام متعلق به کدوم مسیر/دسته/گیرنده هست؛ Payload باید داده و Context موردنیاز مصرف‌کننده رو حمل کنه.**
 
+## پروژه‌های مرتبط: 
+
+- [MQTT Telemetry Node](https://github.com/X-Mind-World/EduminD-Contents/tree/main/MQTT/MQTT_Telemetry_Node)
+- [Python MQTT Node Simulator](https://github.com/X-Mind-World/EduminD-Contents/tree/main/MQTT/python_mqtt_node_simulator)
+
+
 ---
 
 # 2. MQTT Topic چیست؟
