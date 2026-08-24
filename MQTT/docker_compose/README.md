@@ -13,6 +13,8 @@
   </div>  
 </html>
 
+- [گیتهاب EMQ Technologies](https://github.com/emqx)
+
 ---
 
 ## راهنمای نصب پیش‌نیازها
