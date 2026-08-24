@@ -64,6 +64,9 @@ The ESP32 connects to the local Wi-Fi network and establishes an MQTT connection
 
 Once connected, the device publishes its status as `online` and periodically sends telemetry data.
 
+❗ To install the EMQX broker, you can use the `docker-compose` file available in this [**Directory**](https://github.com/X-Mind-World/EduminD-Contents/tree/main/MQTT/docker_compose).
+
+
 ---
 
 ## Features
