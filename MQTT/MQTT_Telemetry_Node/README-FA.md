@@ -63,7 +63,9 @@ flowchart TB
 
 بعد از اتصال موفق، دستگاه وضعیتش رو `online` اعلام می‌کنه و بعد داده‌های Telemetry رو در فواصل مشخص منتشر می‌کنه.
 
-❗ برای نصب بروکر EMQX می‌تونین از فایل docker-compose موجود در این [**Directory**](MQTT/docker compose) استفاده کنید!
+❗ برای نصب بروکر EMQX می‌تونین از فایل docker-compose موجود در این 
+[**Directory**](../docker compose)
+استفاده کنید!
 
 
 ---
