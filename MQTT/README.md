@@ -1310,26 +1310,15 @@ Key principles summarized:
 - Ensure Topic and Payload design accommodates **future device scalability and new feature requirements**.
 
 
-# 34. References
+# 34. Online Resources
 
-- OASIS — MQTT Version 5.0 Specification
-- HiveMQ — MQTT Essentials: Topics, Wildcards & Best Practices
-- HiveMQ — MQTT Topics, Wildcards & Best Practices
-- EMQX — MQTT Topics and Wildcards
-- AWS — Designing MQTT Topics for AWS IoT Core
-- AWS — MQTT Message Payload
-- AWS — MQTT Topics and Topic Filters
-
-
-## Online Resources
-
-- [https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html](https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html)
-- [https://www.hivemq.com/blog/mqtt-essentials-part-5-mqtt-topics-best-practices/](https://www.hivemq.com/blog/mqtt-essentials-part-5-mqtt-topics-best-practices/)
-- [https://dev.to/hivemq_/mqtt-topics-wildcards-best-practices-part-5-87g](https://dev.to/hivemq_/mqtt-topics-wildcards-best-practices-part-5-87g)
-- [https://www.emqx.com/en/blog/advanced-features-of-mqtt-topics](https://www.emqx.com/en/blog/advanced-features-of-mqtt-topics)
-- [https://docs.aws.amazon.com/whitepapers/latest/designing-mqtt-topics-aws-iot-core/mqtt-design-best-practices.html](https://docs.aws.amazon.com/whitepapers/latest/designing-mqtt-topics-aws-iot-core/mqtt-design-best-practices.html)
-- [https://docs.aws.amazon.com/iot/latest/developerguide/topicdata.html](https://docs.aws.amazon.com/iot/latest/developerguide/topicdata.html)
-- [https://docs.aws.amazon.com/iot/latest/developerguide/topics.html](https://docs.aws.amazon.com/iot/latest/developerguide/topics.html)
+- [OASIS — MQTT Version 5.0 Specification](https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html)
+- [HiveMQ — MQTT Essentials: Topics, Wildcards & Best Practices](https://www.hivemq.com/blog/mqtt-essentials-part-5-mqtt-topics-best-practices/)
+- [HiveMQ — MQTT Topics, Wildcards & Best Practices](https://dev.to/hivemq_/mqtt-topics-wildcards-best-practices-part-5-87g)
+- [EMQX — MQTT Topics and Wildcards](https://www.emqx.com/en/blog/advanced-features-of-mqtt-topics)
+- [AWS — Designing MQTT Topics for AWS IoT Core](https://docs.aws.amazon.com/whitepapers/latest/designing-mqtt-topics-aws-iot-core/mqtt-design-best-practices.html)
+- [AWS — MQTT Message Payload](https://docs.aws.amazon.com/iot/latest/developerguide/topicdata.html)
+- [AWS — MQTT Topics and Topic Filters](https://docs.aws.amazon.com/iot/latest/developerguide/topics.html)
 
 
 ## Suggested Next Steps in Learning
