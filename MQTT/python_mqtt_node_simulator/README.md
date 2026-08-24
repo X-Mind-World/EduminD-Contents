@@ -36,6 +36,8 @@ The example simulates an IoT device named `xnode-aero-01`. The device connects t
 
 If the device terminates unexpectedly without calling `disconnect()`, the MQTT Broker publishes the configured LWT message and marks the device as `offline`.
 
+❗ To install the EMQX broker, you can use the docker-compose file available in this [Directory](../docker_compose).
+
 ---
 
 ## Scenario
