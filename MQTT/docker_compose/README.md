@@ -15,4 +15,10 @@
 **راهنمای نصب پیش‌نیازها** 👈
 [**نصب و راه‌اندازی زیرساخت آزمایشگاه خانگی**](https://github.com/X-Mind-World/EduminD-Contents/tree/main/Home_Lab)
 
+---
+
+- [MQTT Telemetry Node](https://github.com/X-Mind-World/EduminD-Contents/tree/main/MQTT/MQTT_Telemetry_Node)
+- [Python MQTT Node Simulator](https://github.com/X-Mind-World/EduminD-Contents/tree/main/MQTT/python_mqtt_node_simulator)
+
+
 
