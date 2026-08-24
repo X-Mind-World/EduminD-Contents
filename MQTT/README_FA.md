@@ -1440,6 +1440,13 @@ Topic Design
 - AWS — MQTT Message Payload
 - AWS — MQTT Topics and Topic Filters
 
+---
+# 🔗 مباحث مرتبط
+
+- [راهنمای جامع زیرساخت آزمایشگاه خانگی: Docker، WSL2 و شبکه برای مهندسان IoT و اتوماسیون](https://github.com/X-Mind-World/EduminD-Contents/tree/main/Home_Lab)
+
+---
+
 ## منابع آنلاین
 
 - https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html
