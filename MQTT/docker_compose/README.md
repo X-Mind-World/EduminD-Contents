@@ -1,4 +1,7 @@
 
+# نصب بروکر EMQX برای پروتکل MQTT
+
+
 **شما می‌تونید از فایل 
 [docker compose](docker-compose.yml)
 برای نصب بروکر EMQX برروی Docker استفاده کنین و یا بااستفاده از راهنمای زیر مراحل نصب رو طی کنید:** 
@@ -12,10 +15,15 @@
 
 ---
 
-**راهنمای نصب پیش‌نیازها** 👈
+## راهنمای نصب پیش‌نیازها
+
+از `docker compose` برای نصب سرویس‌ها روی Docker استفاده می‌شه. مراحل نصب و راه‌اندازی داکر و پیش‌نیازهای لازم از راهنمای زیر استفاده کنید:
+
 [**نصب و راه‌اندازی زیرساخت آزمایشگاه خانگی**](https://github.com/X-Mind-World/EduminD-Contents/tree/main/Home_Lab)
 
+
 ---
+## 🔗 پروژه‌های مرتبط
 
 - [MQTT Telemetry Node](https://github.com/X-Mind-World/EduminD-Contents/tree/main/MQTT/MQTT_Telemetry_Node)
 - [Python MQTT Node Simulator](https://github.com/X-Mind-World/EduminD-Contents/tree/main/MQTT/python_mqtt_node_simulator)
