@@ -47,6 +47,7 @@ More topics and learning resources will be added over time.
 EduminD-Contents/
 ├── Home_Lab/
 ├── MQTT/
+├── Queue/
 ├── assets/
 ├── LICENSE
 └── README.md
