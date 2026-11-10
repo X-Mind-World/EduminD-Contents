@@ -35,8 +35,8 @@
 
 ```
 Queue/
-├── LinearQueue/
-└── CircularQueue/
+├── CircularQueue/
+└── LinearQueue/
 ```
 
 هر پوشه یک پیاده‌سازی مستقل از صف داره و می‌تونین اون‌ها رو جداگانه اجرا و بررسی کنین.
