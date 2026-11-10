@@ -37,6 +37,8 @@ The repository currently includes educational resources covering topics such as:
 - **Home Lab** — Guides and documentation for building and working with a personal technical lab environment.
     
 - **MQTT** — Educational materials covering MQTT concepts, messaging architecture, topics, payloads, and practical usage.
+
+- **Queue** — Educational resources and practical projects covering the Queue data structure, FIFO principles, Linear and Circular Queue implementations, and data management in resource-constrained environments such as the ESP32.
     
 
 More topics and learning resources will be added over time.
