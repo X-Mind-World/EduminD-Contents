@@ -1,9 +1,9 @@
 <html>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/EduminD_dark.webp">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/EduminD.webp">
-    <img src="./assets/EduminD.webp" alt="EduminD Logo" width="250">
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/EduminD_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="../assets/EduminD.webp">
+    <img src="../assets/EduminD.webp" alt="EduminD Logo" width="250">
   </picture>
 
 </p>
